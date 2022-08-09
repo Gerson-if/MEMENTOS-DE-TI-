@@ -1,0 +1,28 @@
+
+body nav ul li a{
+    text-decoration: none;
+    list-style: none;
+}
+body nav ul li{
+    list-style-type: none;
+}
+body{
+    background-image: url(https://images4.alphacoders.com/587/thumb-1920-587508.png);
+}
+#ger{
+    font-size: 58px;
+}
+.tob{
+    color: green;
+    font-size: 28px;
+    tra
+
+}
+#corpo{
+    width: 960px;
+    margin: auto;
+    background-image: url(https://images3.alphacoders.com/608/thumb-1920-608887.jpg);
+    color: white;
+    padding: 10px;
+
+}
